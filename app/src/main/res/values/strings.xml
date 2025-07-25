@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloApex.java</string>
+        <string name="welcome_text">Welcome to Apex Planet!</string>
+        <string name="button_text">Click Me!</string>
+        <string name="clicked_text">You clicked the button!</string>
+
+</resources>
